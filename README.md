@@ -1,0 +1,2 @@
+# GLSurfaceViewDemo
+采用自定义GLSurfaceView播放视频，并作了分层隔离
